@@ -1,0 +1,20 @@
+{
+  "name": "Veb Tizimlari O'quv Muhiti (@shohabbosdev)",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:18-bullseye",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 2
+      },
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "ritwickdey.liveserver",
+        "Prisma.prisma"
+      ]
+    }
+  },
+  "forwardPorts": [3000, 4000, 5000, 5173],
+  "postCreateCommand": "npm install -g vite nodemon"
+}
