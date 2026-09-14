@@ -1,6 +1,6 @@
-# Veb Tizimlari — Amaliy Mashg‘ulotlar Kodlar Bazasi
+# Veb Tizimlari — Amaliy mashg‘ulotlar kodlar bazasi
 
-O‘zbekiston Milliy Universiteti Jizzax Filiali  
+O‘zbekiston Milliy Universiteti Jizzax filiali  
 **Fakultet:** «Amaliy matematika» fakulteti  
 **Kafedra:** «Axborot tizimlari va texnologiyalari» kafedrasi  
 **Muallif:** [@shohabbosdev](https://github.com/shohabbosdev)  
